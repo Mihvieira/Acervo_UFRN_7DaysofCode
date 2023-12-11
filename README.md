@@ -18,10 +18,6 @@ Explorar a relação entre:
     * Exemplares x Mês/Dia
     * Acadêmicos x Exemplares
     * Coleções x Empréstimos
-## Sumário
-    * Bibliotecas e dados;
-    * Conjuntos de dados base;
-
 ## Tecnologias utilizadas:
 
 * Python 3.11.3:
